@@ -28,21 +28,6 @@ test_input = preprocess_input(input_data)
 
 # Prediction
 if st.sidebar.button("Predict Crop"):
-    # prediction_proba = crop_model.predict_proba(test_input)
-    # top_crop_index = np.argmax(prediction_proba)
-    # confidence = np.max(prediction_proba) * 100
-    # recommended_crop = label_encoder.inverse_transform([top_crop_index])[0]
-    
-    # # Display results
-    # st.subheader("🌾 Recommended Crop:")
-    # st.write(f"**{recommended_crop}** with **{confidence:.2f}%** confidence")
-
-    # prediction = crop_model.predict(test_input)
-    # recommended_crop = label_encoder.inverse_transform(prediction)[0]
-    
-    # # Display results
-    # st.subheader("🌾 Recommended Crop:")
-    # st.write(f"**{recommended_crop}**")
     predicted_crop_index = crop_model.predict(test_input)[0]
     recommended_crop = label_encoder.inverse_transform([predicted_crop_index])[0]
     
