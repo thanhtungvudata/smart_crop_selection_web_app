@@ -25,8 +25,7 @@ This **Smart Crop Selection** web app helps farmers and researchers determine th
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/smart-crop-selection.git
-cd smart-crop-selection
+git clone https://github.com/thanhtungvudata/smart_crop_selection_web_app.git
 ```
 
 ### **2️⃣ Install Dependencies**
