@@ -71,7 +71,7 @@ The trained model is saved as `models/crop_model.pkl`.
 
 ## 🔗 Live Demo
 
-You can access the deployed version of this app [here](https://your-streamlit-app-url.streamlit.app/).
+You can access the deployed version of this app [https://smartcropselection.streamlit.app/](https://smartcropselection.streamlit.app/).
 
 ## 💡 Future Improvements
 
