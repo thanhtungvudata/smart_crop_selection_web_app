@@ -4,6 +4,8 @@
 
 This **Smart Crop Selection** web app helps farmers and researchers determine the most suitable crop to plant based on **soil parameters**. It uses **machine learning** to make predictions based on nitrogen (N), phosphorus (P), potassium (K), and pH levels in the soil.
 
+The blog post for this app is [here](https://medium.com/@tungvu_37498/step-by-step-guide-to-building-a-smart-crop-selection-web-app-using-streamlit-d01db3665f8e).
+
 ## 🚀 Features
 
 - **User-friendly web interface** built with Streamlit.
