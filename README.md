@@ -82,7 +82,7 @@ You can access the deployed version of this app [https://smartcropselection.stre
 
 ## 🤝 Contributing
 
-Pull requests are welcome! Feel free to **fork this repository** and submit improvements.
+Pull requests are welcome! Please feel free to **fork this repository** and submit any improvements.
 
 ## 📜 License
 
